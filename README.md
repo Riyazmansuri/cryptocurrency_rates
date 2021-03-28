@@ -5,7 +5,8 @@ You have to use your own APIKey get one from CoinAPI.io and paste it as a value 
 
 ## What it looks like
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+![Finished App](https://github.com/Riyazmansuri/ScreenShots/blob/37dd0144d6f73989a65d1a8327bcc66283b8e979/bitcoin-flutter-demo.gif)
+
 
 ## What I've learned
 
